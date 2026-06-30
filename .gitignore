@@ -1,0 +1,11 @@
+input/
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+__pycache__/
+*.pyc
+.venv/
+Thumbs.db
+desktop.ini
